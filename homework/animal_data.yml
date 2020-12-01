@@ -1,0 +1,13 @@
+cat_datas:
+  name: "莫莉"
+  color: "白色"
+  age: 2
+  gender: "女孩"
+  shorthair: "短毛"
+
+dog_datas:
+  name: "大虎"
+  color: "花色"
+  age: 3
+  gender: "男孩"
+  longhair: "长毛"
